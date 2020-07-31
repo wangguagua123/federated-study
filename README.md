@@ -1,2 +1,2 @@
 # federated-study
-just another repository
+just federated repository
